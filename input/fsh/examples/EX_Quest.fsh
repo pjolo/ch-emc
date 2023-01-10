@@ -1,4 +1,4 @@
-Instance: order-referral-form
+Instance: patient-emergency-information
 InstanceOf: Questionnaire
 Usage: #example
 * meta.profile[0] = "http://fhir.ch/ig/ch-orf/StructureDefinition/ch-orf-questionnaire"
