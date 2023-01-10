@@ -1,5 +1,5 @@
 Profile: CHPEIQuestionnaire
-Parent: QuestionnaireExtract
+Parent: SdcBaseQuestionnaire
 Id: ch-pei-document
 Title: "CH PEI Questionnaire"
 Description: ""
