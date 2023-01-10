@@ -8,7 +8,7 @@ Alias:   $SDChCorePractitioner =        http://fhir.ch/ig/ch-core/StructureDefin
 Alias:   $SDChCorePatient =             http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-patient
 Alias:   $SDChCoreCoposite =            http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-composition
 Alias:   $SDChCoreDocumentEPR =         http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-document-epr
-//Alias:   $SDChEmed =                  http://fhir.ch/ig/ch-emed/StructureDefinition/ch-emed-medicationstatement
+Alias:   ChEmedMedication =     http://fhir.ch/ig/ch-emed/StructureDefinition/ch-emed-medication
 //Alias: $SDChAlleryIntolerance =       http://fhir.ch/ig/ch-allergyintolerance/StructureDefinition/ch-allergyintolerance
 
 
