@@ -34,6 +34,8 @@ pages:
     title: Home
   profiles.md:
     title: Profiles
+  questionnaire.md:
+    titel: Questionnaire
   extensions.md:
     title: Extensions
   terminology.md:
@@ -42,6 +44,7 @@ pages:
 menu:
   Home: index.html
   Profiles: profiles.html
+  Questionnaire: questionnaire.html
   Extensions: extensions.html
   Terminology: terminology.html
   Artifacts: artifacts.html

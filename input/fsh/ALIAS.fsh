@@ -8,10 +8,9 @@ Alias:   $SDChCorePractitioner =        http://fhir.ch/ig/ch-core/StructureDefin
 Alias:   $SDChCorePatient =             http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-patient
 Alias:   $SDChCoreCoposite =            http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-composition
 Alias:   $SDChCoreDocumentEPR =         http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-document-epr
-//Alias:   ChEmedMedication =     http://fhir.ch/ig/ch-emed/StructureDefinition/ch-emed-medication
-//Alias:  SdcBaseQuestionnaire =                http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire
-//Alias: $SDChAlleryIntolerance =       http://fhir.ch/ig/ch-allergyintolerance/StructureDefinition/ch-allergyintolerance
+Alias:   ChCorePatient =                http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-patient
 
+Alias:   ChEmedMedication =           http://fhir.ch/ig/ch-emed/StructureDefinition/ch-emed-medication
 
 // XML CH IG Code System
 Alias:  $CSChIgExampleTranslation =     http://fhir.ch/ig/ch-ig/CodeSystem/ch-ig-example-translation
