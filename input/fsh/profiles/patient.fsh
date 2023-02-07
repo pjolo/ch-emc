@@ -1,4 +1,4 @@
-Profile: CH PEI Patient
+Profile: MyPatient
 Parent: $SDChCorePatient
 Id: MyPatient
 Title: "MyPatient"
