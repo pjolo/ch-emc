@@ -3,6 +3,4 @@ Parent: $SDChCorePatient
 Id: MyPatient
 Title: "MyPatient"
 Description: "Test"
-
-*gender 1..1
  
