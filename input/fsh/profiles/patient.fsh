@@ -2,7 +2,7 @@ Profile: CH PEI Patient
 Parent: $SDChCorePatient
 Id: MyPatient
 Title: "MyPatient"
-Description: ""
+Description: "Test"
 
 *gender 1..1
  
