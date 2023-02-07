@@ -1,6 +1,6 @@
 ### Introduction
 
-Dieser Leitfaden beschreibt die FHIR repräsentation der Notfalldaten welche in der Umsetzungshilfe von eHealth Suisse erarbeitet wurde. Es soll rasch einen Überblick über die wichtigsten informationen eines Patienten geben. [HL7 Switzerland](https://www.hl7.ch/)    
+Dieser Leitfaden beschreibt die FHIR repräsentation der Notfallpasses, welche in der Umsetzungshilfe von eHealth Suisse erarbeitet wurde. Es soll rasch einen Überblick über die wichtigsten informationen eines Patienten geben. [HL7 Switzerland](https://www.hl7.ch/)    
 
 
 ### Source and Download
