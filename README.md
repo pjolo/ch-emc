@@ -1,2 +1,2 @@
-# CH-PEI
-Patient emergency information
+# CH-EMC
+Emergency health card
