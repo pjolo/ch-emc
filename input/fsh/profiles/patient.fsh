@@ -1,5 +1,5 @@
 Profile: MyPatient
-Parent: $SDChCorePatient
+Parent: ChCorePatient
 Id: MyPatient
 Title: "MyPatient"
 Description: "Test"
