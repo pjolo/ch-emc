@@ -59,7 +59,7 @@ Usage: #example
 * jurisdiction = urn:iso:std:iso:3166#CH
 * copyright = "CC-BY-SA-4.0"
 * item[0].linkId = "order"
-* item[=].text = "Auftrag"
+* item[=].text = "Auftrag Test"
 * item[=].type = #group
 * item[=].required = true
 * item[=].item[0].linkId = "order.placerOrderIdentifier"
