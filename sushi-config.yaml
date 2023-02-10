@@ -40,6 +40,8 @@ pages:
     title: Extensions
   terminology.md:
     title: Terminology
+  usecase-german.md:
+    titel: Use Cases
 
 menu:
   Home: index.html
