@@ -1,5 +1,5 @@
 Profile: TestQuestionnaire
-Parent: http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-patient
+Parent: http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire
 Id: ch-test-questionnaire
 Title: "CH Test Questionnaire"
 Description: "Test"
