@@ -1,4 +1,4 @@
-Instance: patient-emergency-information
+Instance: order-referral-form
 InstanceOf: Questionnaire
 Usage: #example
 * meta.profile[0] = "http://fhir.ch/ig/ch-orf/StructureDefinition/ch-orf-questionnaire"
@@ -59,7 +59,7 @@ Usage: #example
 * jurisdiction = urn:iso:std:iso:3166#CH
 * copyright = "CC-BY-SA-4.0"
 * item[0].linkId = "order"
-* item[=].text = "Auftrag Test"
+* item[=].text = "Auftrag"
 * item[=].type = #group
 * item[=].required = true
 * item[=].item[0].linkId = "order.placerOrderIdentifier"
